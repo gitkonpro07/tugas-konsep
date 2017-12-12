@@ -18,3 +18,4 @@ def game_sederhana():
 			print("\tkamu kalah")
 		if kom=="gunting":
 			print("\tkamu menang")"# tugas-konsep" 
+"# tugas-konsep" 
